@@ -1,0 +1,23 @@
+{
+  "name": "expresssessions",
+  "version": "1.0.0",
+  "description": "Small example of sessions with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J4qu3s/expressSessions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J4qu3s/expressSessions/issues"
+  },
+  "homepage": "https://github.com/J4qu3s/expressSessions#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.2"
+  }
+}
